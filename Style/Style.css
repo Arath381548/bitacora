@@ -1,0 +1,32 @@
+body{
+    background: url(../imagen/fon.png);
+    background-size: cover;
+}
+
+h1{
+    /*padding-left: 300px;*/ /*Sangria*/
+    text-align: center;
+    text-decoration:underline;
+    color: purple;
+    font-size: 40px;
+}
+
+h2{
+    text-align: right;
+    text-decoration:underline;
+}
+
+h3{
+    padding-left: 30px;
+    font-size: 27.5px;
+}
+
+summary{
+    padding-left: 15px;
+    color: darkblue;
+    font-style: italic;
+}
+img{
+    margin: auto;
+    display: block; 
+}
